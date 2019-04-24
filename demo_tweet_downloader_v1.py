@@ -16,7 +16,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from textblob import TextBlob
 import re
-'''nm_appiah
+
+try changing the user accounts with any of the following
+ '''nm_appiah
    realDonalTrump
    ghdatascience
    shattawalegh
