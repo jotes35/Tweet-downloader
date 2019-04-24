@@ -3,11 +3,11 @@
 #Email:appiahv@rocketmail.com
 #The consumerkey and accesstoken is valid from April 25 - 27 2019
 
-consumerkey='GhGZJQqiE14UBJl1TV1oj5rKU'
-consumersecret='PemV7yRLHxpnYzhh9IhuIzrPWRYalCesrXmBBtxvxoiLDCB0Af'
+consumerkey=''
+consumersecret=''
 
-accesstoken='1033643831793729536-nSVdnzCM5UrHo7qAZAMZ4gpbXDq30Z'
-accesstokensecret='t5oHuc2RX5vbWRJJxPZ1LJ2v5gA1q4tN4GJ3f22R8wiSB'
+accesstoken=''
+accesstokensecret=''
 
 
 
